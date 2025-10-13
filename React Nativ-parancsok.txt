@@ -1,0 +1,12 @@
+npx create-expo-app *projekt név* --template bare-minimum
+cd *mappa/projekt név*
+npx expo install react-dom react-native-web
+
+--
+
+--ha nem tudja futtatni egyből akkor fő mappába--
+npm i
+
+--
+
+npm run web

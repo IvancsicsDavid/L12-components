@@ -1,0 +1,58 @@
+2. feladat:
+
+SELECT album.eloado,album.cim
+FROM `album` 
+WHERE album.eloado LIKE "%fekete%" OR album.cim LIKE "%fekete%" 
+
+3. feladat:
+
+SELECT toplista.kiado,COUNT(toplista.albumid) AS 'kiadványok száma'
+FROM toplista 
+GROUP BY toplista.kiado
+ORDER BY COUNT(toplista.albumid) DESC
+LIMIT 100;
+
+4. feladat:
+
+SELECT eloado,platinadb
+FROM toplista
+INNER JOIN album ON album.id=toplista.albumid
+GROUP BY eloado
+ORDER BY platinadb DESC
+LIMIT 1;
+
+5. feladat:
+
+SELECT album.eloado,album.cim, COUNT(*) AS 'Lista-Szereples'
+FROM toplista 
+INNER JOIN album ON album.id=toplista.albumid
+GROUP BY toplista.albumid
+HAVING 'Lista-Szereples' >= 3;
+
+6. feladat:
+
+SELECT album.eloado,album.cim
+FROM album
+WHERE album.cim LIKE CONCAT("%",album.eloado,"%")
+
+7. feladat:
+
+SELECT DISTINCT album.eloado
+FROM toplista
+INNER JOIN album ON album.id=toplista.albumid
+WHERE kiado IN 
+(
+SELECT DISTINCT kiado 
+FROM toplista 
+INNER JOIN album ON album.id=toplista.albumid 
+WHERE eloado = "Palya Bea"
+) 
+AND album.eloado != "Palya Bea";
+
+8. feladat:
+
+SELECT kiado,eloado, COUNT(*) AS 'Albumok száma'
+FROM toplista
+INNER JOIN album ON album.id=toplista.albumid 
+GROUP BY eloado
+ORDER BY kiado

@@ -1,0 +1,396 @@
+id	eloado	cim
+1	50 Cent	Curtis
+2	A TĂĄrsulat	A legjobb dalok
+3	A TĂĄrsulat	SztĂĄrkarĂĄcsony a TĂĄrsulattal
+4	Abba	Gold - Greatest Hits
+5	AC/DC	Black Ice
+6	AC/DC	Iron Man 2
+7	Adagio	ĂrintĂŠs
+8	Adagio	Gold
+9	Adagio	Hollywood
+10	Adam Lambert	For Your Entertainment
+11	Adele	21
+12	Ăkos	40+
+13	Ăkos	A katona imĂĄja
+14	Ăkos	ArĂŠnakoncert 2011
+15	Ăkos	MĂŠg kĂśzelebb
+16	Ăkos	Test / IndiĂĄntĂĄnc
+17	Alma - Bartos Erika	Balaton
+18	Alma & BrĂłdy	JĂĄtsszunk egyĂźtt!
+19	Amy Winehouse	Back To Black
+20	Amy Winehouse	Lioness Hidden Treasures
+21	Andrea Bocelli	Concerto One Night In Central Park
+22	Andrea Bocelli	Incanto
+23	Andrea Bocelli	My Christmas
+24	Andrea Bocelli	My Christmas / My Christmas 2010
+25	Andrea Bocelli	Vivere - Greatest Hits
+26	Andrewboy	Dirty Dance 2
+27	Anti Fitness Club	Anti Fitness Club
+28	Avril Lavigne	Goodbye Lullaby
+29	Avril Lavigne	The Best Damn Thing
+30	B. TĂłth LĂĄszlĂł	Retro-Poptarisznya
+31	BalĂĄzs FecĂł	60 - Csak az ĂŠvek mĂşltak el...
+32	BalĂĄzs FecĂł	Ărints meg mĂŠg egyszer
+33	Barbra Streisand	Love Is The Answer
+34	Barbra Streisand	The Ultimate Collection
+35	Barbra Streisand	What Matters Most - Barbra Streisand Sings The Lyrics Of Alan & Marilyn Bergman
+36	Baricz GergĹ	Az elsĹ X - Az ĂŠlĹ show-k 10 legnagyobb kedvence
+37	Belga	Zigilemez
+38	Bereczki ZoltĂĄn	ĂlomkĂŠp
+39	Bereczki ZoltĂĄn - SzinetĂĄr DĂłra	Duett KarĂĄcsony
+40	Bereczki ZoltĂĄn - SzinetĂĄr DĂłra	Musical Duett
+41	Bereczki ZoltĂĄn - SzinetĂĄr DĂłra	Musical Duett 2.
+42	Bereczki ZoltĂĄn - SzinetĂĄr DĂłra	Musical Duett Box
+43	Bereczki ZoltĂĄn - SzinetĂĄr DĂłra	Musical Duett Koncert
+44	BeyoncĂŠ	4
+45	BeyoncĂŠ	I Am... Sasha Fierce
+46	Bikini	ElmĂşlt illĂşziĂłk
+47	Bikini	ĹrzĂśm a lĂĄngot
+48	Bikini	The Very Best Of
+49	BĂłdi Guszti ĂŠs a Fekete Szemek	Forr a vĂŠrem
+50	Bon Jovi	Greatest Hits
+51	Bon Jovi	Lost Highway
+52	Bonanza Banzai	JĂłslat / BĂşcsĂşkoncert
+53	Britney Spears	Femme Fatale
+54	BrĂłdy JĂĄnos	Az IllĂŠs szekerĂŠn
+55	Budapest BĂĄr	Volume 1
+56	Budapest BĂĄr	Volume 2 - TĂĄnc
+57	Budapest BĂĄr	Volume 3 - Zene
+58	Budapest BĂĄr	Volume 4 - HoppĂĄ!
+59	Caramel	LĂŠlekdonor
+60	Celine Dion	My Love Essential Collection
+61	Coldplay	Mylo Xyloto
+62	Coldplay	Viva La Vida
+63	Crystal	Gregorian
+64	Crystal	VilĂĄgok hangjai
+65	CsĂŠzy	SzĂ­vverĂŠs
+66	Csicsi	Pimpinkin
+67	CsĂ­k Zenekar	Ez a vonat, ha elindult, hadd menjen...
+68	CsĂ­k Zenekar	LĂŠlekkĂŠpek
+69	CsĂ­k Zenekar	SzĂ­vest ĂśrĂśmEst - ĂĂŠvbĂşcsĂşztatĂł koncert 2009
+70	CsinĂĄljuk a fesztivĂĄlt	CsinĂĄljuk a fesztivĂĄlt 3.
+71	CsinĂĄljuk a fesztivĂĄlt	CsinĂĄljuk a fesztivĂĄlt!
+72	David Guetta	Nothing But The Beat
+73	David Guetta	One Love / One More Love
+74	DeĂĄk Bill Gyula	A kirĂĄly mesĂŠi
+75	DeĂĄk Bill Gyula	Hatvan csapĂĄs
+76	DemjĂŠn Ferenc	A lelkĂźnk most is vĂĄgtat
+77	DemjĂŠn Ferenc	Ăgy fogadj el igazĂĄn
+78	Depeche Mode	Sounds Of The Universe
+79	Depeche Mode	The Best Of Vol. 1.
+80	DepressziĂł	VĂ­zvĂĄlasztĂł
+81	DĂŠs-BeremĂŠnyi-BĂĄsti-Cserhalmi-Kulka-Udvaros	FĂŠrfi ĂŠs NĹ
+82	Desperado	TĂĄncolj!
+83	Diana Krall	Quiet Nights
+84	Diana Krall	The Very Best Of
+85	Dido	Safe Trip Home
+86	DJ Dominique	Best Of Hungarissimo
+87	DJ Dominique	Megamix 2011
+88	DobrĂĄdy Ăkos	KĂśzelebb egymĂĄshoz
+89	Dolhai Attila	Egy szerelem tĂśrtĂŠnete
+90	Dolhai Attila	Olasz szerelem
+91	Duffy	Rockferry
+92	Edda	Ătok ĂŠs ĂĄldĂĄs
+93	Enya	And Winter Came
+94	Enya	The Very Best Of
+95	Eros Ramazzotti	Ali E Radici / Alas Y Raices
+96	Eros Ramazzotti	E2
+97	Feke PĂĄl	A dĂśntĹk legszebb dalai
+98	Feke PĂĄl	Ăj vilĂĄg vĂĄr!
+99	Fekete DĂĄvid	Kell, hogy itt legyĂŠl
+100	FenyĹ MiklĂłs	Kell egy ĂĄlom
+101	Fiesta	Lehet, hogy ĂĄlom
+102	Filmzene	Hannah Montana
+103	Filmzene	Hannah Montana - The Movie
+104	Filmzene	Hannah Montana 3
+105	Filmzene	Made In HungĂĄria
+106	Filmzene	Mamma Mia!
+107	Filmzene	Sex And The City
+108	Filmzene	Valami Amerika 2.
+109	FivĂŠrek	Luxus tangĂł
+110	GĂĄspĂĄr Laci	Ăs mĂŠgis forog a FĂśld
+111	George Michael	Twenty Five
+112	Ghymes	ĂlombĂĄlom
+113	Ghymes	Mendika
+114	Ghymes	SzikraszemĹą
+115	Gringo SztĂĄr	PĂĄlinka Sunrise
+116	Groovehouse	HosszĂş az Ăşt
+117	Guns N' Roses	Chinese Democracy
+118	GyerekkarĂĄcsony	GyerekkarĂĄcsony
+119	Gyereklemez	GyerekkarĂĄcsony Aranyalbum
+120	Gyereklemez	MagyarorszĂĄg kedvenc gyerekdalai
+121	Gyereklemez	MagyarorszĂĄg kedvenc gyerekdalai - RĂĄadĂĄs
+122	Gyereklemez	MagyarorszĂĄg legkedveltebb karĂĄcsonyi gyerekdalai
+123	HalĂĄsz Judit	Apa figyelj rĂĄm
+124	HalĂĄsz Judit	Csiribiri
+125	HalĂĄsz Judit	MicimackĂł ĂŠs a tĂśbbiek
+126	HalĂĄsz Judit	Szeresd a testvĂŠred!
+127	Hobo	Circus Hungaricus
+128	Hobo Blues Band	Halj meg ĂŠs nagy leszel!
+129	Holdviola	MadĂĄrka
+130	Holdviola	VĂĄndorfecske
+131	Homonnay Zsolt ĂŠs PolyĂĄk Lilla	Ketten
+132	Hooligans	Best Of 1996-2011
+133	Hooligans	BohĂŠmĂŠlet
+134	Hooligans	PrivĂĄt mennyorszĂĄg
+135	Horgas Eszter	KarĂĄcsony angyala
+136	Horgas Eszter	Ĺ ĂŠs Carmen
+137	Hungarica	Nincs mĂĄs FĂśld, nincs mĂĄs Ăg
+138	Irigy HĂłnaljmirigy	K.O. MĂŠdia
+139	Iron Maiden	The Final Frontier
+140	IsmerĹs Arcok	ĂberĂĄlom
+141	IsmerĹs Arcok	LĂŠlekvesztĹ
+142	IstvĂĄn, a kirĂĄly	25. ĂŠves Jubileumi album a TĂĄrsulat elĹadĂĄsĂĄban
+143	JanicsĂĄk Veca	A mĂĄsodik X - 10 Ăşj felvĂŠtel
+144	JanicsĂĄk Veca	Az elsĹ X - 10 dal az ĂŠlĹ showbĂłl
+145	JanicsĂĄk Veca	Veca vilĂĄga
+146	Jean Michel Jarre	Oxygen - 30th Anniversary
+148	Jennifer Lopez	Como Ama Una Mujer
+149	Jolly	KislĂĄny ne lĂŠgy szomorĂş
+150	Josh ĂŠs Jutta	Szabadon
+151	Justin Timberlake	Futuresex/Lovesounds
+152	KĂĄrpĂĄtia	IdĹk szava
+153	KĂĄrpĂĄtia	Szebb jĂśvĹt
+154	Karthago	IdĹtĂśrĂŠs
+155	Kasza Tibor	Ha egy fĂŠrfi igazĂĄn szeret
+156	KaszĂĄs Attila	Kit ringat a bĂślcsĹ, JanikĂĄt.
+157	Katy Perry	Teenage Dream
+158	Keresztes IldikĂł	Csak jĂĄtszom
+159	Keresztes IldikĂł	Minden ami szĂŠp volt
+160	Kern AndrĂĄs	Semmi baj...
+161	KirĂĄly L. Norbert	A mĂĄsodik X - 10 Ăşj felvĂŠtel
+162	KirĂĄly L. Norbert	Az elsĹ X - 10 dal az ĂŠlĹ showbĂłl
+163	Kiscsillag	NĂŠniket a bĂĄcsiknak
+164	Kiscsillag	ĂrĂśkre szĂ­vembe zĂĄrtalak
+165	KiskalĂĄsz Zenekar - Bartos Erika	SzĂĄzlĂĄbĂş
+166	KiskalĂĄsz Zenekar - Bartos Erika	ZsĂĄkbamacska
+167	KispĂĄl ĂŠs a Borz	20 ĂŠv
+168	KispĂĄl ĂŠs a Borz	Napozz Holddal - BĂşcsĂşkoncert
+169	KistehĂŠn TĂĄnczenekar	Szerelmes vagyok minden nĹbe
+170	Kocsis Tibor	Az elsĹ X - Az ĂŠlĹ show-k 10 legnagyobb kedvence
+171	Koncz Zsuzsa	37
+172	KormorĂĄn	Best of
+173	Kowalsky meg a Vega	Az ĂŠvtized lemeze
+174	KĂśkĂŠny Attila	Nincs semmi mĂĄsom
+175	Kulka JĂĄnos	Akarod vagy nem
+176	L.L. Junior	FehĂŠr hollĂł
+177	Lady Gaga	Born This Way
+178	Lady Gaga	The Fame / The Fame Monster
+179	Leona Lewis	Spirit
+180	Leonard Cohen	Greatest Hits
+181	Leonard Cohen	Live In London
+182	Leonard Cohen	Songs From The Road
+183	Lilly Baba	A vilĂĄg kĂśrĂźl
+184	Lilly Baba	Az ĂŠn albumom
+185	Linkin Park	Minutes To Midnight
+186	Lola	Ălj a mĂĄnak!
+187	Lord	ĂrĂśkkĂŠ
+188	Lord	SzĂłljon a Lord - Best Of
+189	Luciano Pavarotti	Pavarotti Forever
+190	Luciano Pavarotti	The Duets
+191	Madonna	Celebration
+192	Madonna	Hard Candy
+193	Madonna	The Confessions Tour
+194	MĂĄga ZoltĂĄn	A kirĂĄlyok hegedĹąse
+195	MĂĄga ZoltĂĄn	Budapesti ĂşjĂŠvi koncert 2011
+196	Magna Cum Laude	999
+197	Magna Cum Laude	BelsĹ ĂŠgĂŠs
+198	Magna Cum Laude	Csak ĂźlĂźnk ĂŠs zenĂŠlĂźnk
+199	Magna Cum Laude	Jubileum
+200	Magna Cum Laude	Magnatofon
+201	Magna Cum Laude	Minden ĂĄllomĂĄs
+202	MagyarorszĂĄg kedvenc gyermekmesĂŠi	Magyar nĂŠpmesĂŠk
+203	MahĂł Andrea	MĂĄs lesz a holnap
+204	Manu Chao	La Radiolina
+205	Mariah Carey	Merry Christmas II You
+206	MĂĄriĂł	Best of
+207	MĂĄtĂŠ PĂŠter emlĂŠkalbum	Egy darabot a szĂ­vembĹl
+208	MegasztĂĄr	A legenda folytatĂłdik
+209	MegasztĂĄr	MegasztĂĄr KarĂĄcsony 2008
+210	MegasztĂĄr	Top 5
+211	MĂŠszĂĄros ĂrpĂĄd Zsolt	Musicalek MĂĄzs-kĂŠppen
+212	Metallica	Death Magnetic
+213	Michael BublĂŠ	Call Me Irresponsible
+214	Michael BublĂŠ	Christmas
+215	Michael Jackson	Bad
+216	Michael Jackson	Essential Michael Jackson
+217	Michael Jackson	King Of Pop - MagyarorszĂĄg kedvenc dalai
+218	Michael Jackson	Michael
+219	Michael Jackson	This Is It
+220	Michael Jackson	Thriller - 25th Anniversary Edition
+221	Miley Cyrus	Breakout
+222	Miley Cyrus	Can`t Be Tamed
+223	Miley Cyrus	The Time Of Our Lives
+224	Miller ZoltĂĄn	FehĂŠr ĂŠs fekete
+225	Mini Hitmix	Mini hitmix
+226	MR2-PetĹfi RĂĄdiĂł	Egy kis hazai
+227	MR2-PetĹfi RĂĄdiĂł	Egy kis hazai 2.
+228	MR2-PetĹfi RĂĄdiĂł	Egy kis hazai 3.
+229	MR2-PetĹfi RĂĄdiĂł	Egy kis hazai 4.
+230	Muri EnikĹ	Az elsĹ X - Az ĂŠlĹ show-k 10 legnagyobb kedvence
+231	Musical	High School Musical
+232	Musical	High School Musical - Hits Collection
+233	Musical	High School Musical 2.
+234	Musical	High School Musical 3.
+235	Musical	Rebecca - A Manderley-hĂĄz asszonya
+236	Musical	SzĂŠp nyĂĄri nap
+237	Musical LegendĂĄk	Gyere, ĂĄlmodj!
+238	Nagy SĂĄndor	Szavak
+239	Nelly Furtado	Loose
+240	Nightwish	Dark Passion Play
+241	No Thanx	Egy mĂĄsik nemzedĂŠk
+242	Norah Jones	Not Too Late
+243	Norah Jones	The Fall
+244	NĂłtĂĄr Mary	CigĂĄnylĂĄny
+245	Nox	Best of 2002-2009
+246	Nox	Csendes
+247	Nox	IdĹntĂşl
+248	Nox	Most!
+249	Nox	ĂrĂśmvĂślgy
+250	Ocho Macho	El Mundo Fantastico
+251	Ocho Macho	Online a vilĂĄg
+252	OlĂĄh Ibolya	El merem mondani
+253	Omega	Omega Rhapsody
+254	Ossian	Az lesz a gyĹztes
+255	Ossian	Egyszer az ĂŠletben
+256	Ossian	ĂrĂśk tĹąz
+257	P!Nk	Greatest Hits...So Far!!!
+258	Palya Bea	Adieu les complexes
+259	Palya Bea	EgyszĂĄlĂŠnek
+260	Palya Bea	Ăn leszek a jĂĄtĂŠkszered
+261	Palya Bea	RibizliĂĄlom
+262	PĂŠterfy Bori & Love Band	2B
+263	PĂŠterfy Bori & Love Band	PĂŠterfy Bori & Love Band
+264	PĂŠterfy Bori & Love Band	PĂŠterfy Bori & Love Band 2
+265	Pink	Funhouse
+266	PinokkiĂł	MĂĄgikus PinokkiĂł
+267	Piramis	Koncert 2006 SportarĂŠna
+268	Pitbull	Planet Pit
+269	PolyĂĄk Lilla ĂŠs Homonnay Zsolt	KĂŠt szĂ­v
+270	Presser GĂĄbor	1 Ăłra az 1 koncert-bĹl
+271	Princess	Best of Princess
+272	Princess	MediterrĂĄn
+273	Queen	Absolute Greatest
+274	Quimby	Instant szeĂĄnsz
+275	Quimby	Kicsi orszĂĄg
+276	Quimby	KilĂŠgzĂŠs
+277	Quimby	LĂĄrmagyĹąjtĂśgetĹ
+278	Rammstein	Liebe Ist FĂźr Alle Da
+279	Red Hot Chili Peppers	I`m With You
+280	Red Hot Chili Peppers	Stadium Arcadium
+281	Republic	20 ĂŠves Ăźnnepi koncert
+282	Republic	Aranyalbum 2. - 2000-2010
+283	Republic	FĂŠnyes utakon
+284	Republic	KĂśztĂĄrsasĂĄg
+285	Republic	MiĂŠrt, maga bohĂłc?
+286	Republic	Tiszta udvar, rendes hĂĄz
+287	Rihanna	Good Girl Gone Bad
+288	Rihanna	Loud
+289	Rihanna	Talk That Talk
+290	Road	EmberteremtĹ
+291	Robbie Williams	In And Out Of Consciousness Greatest Hits 1990-2010
+292	Robbie Williams	Reality Killed The Video Star
+293	Rod Stewart	Fly Me To The Moon...The Great American Songbook Volume V
+294	Rod Stewart	Soulbook
+295	Rosszcsontok	Rosszcsontok
+296	RĂşzsa Magdi	IrĂĄnytĹą
+297	RĂşzsa Magdi	MagdalĂŠna RĂşzsa
+298	RĂşzsa Magdi	ĂrdĂśgi angyal
+299	RĂşzsa Magdi	T-Mobile Kapcsolat Koncert
+300	RĂşzsa Magdi	A dĂśntĹkben elhangzott dalok
+301	Sade	Soldier of Love
+302	Sade	The Ultimate Collection
+303	Santana	Guitar Heaven The Greatest Guitar Classics Of All Time
+304	Santana	Ultimate Santana
+305	Seal	Soul
+306	Shakira	Sale El Sol / The Sun Comes Out
+307	Snufi	SzĂ­vembĹl szĂłl
+308	Sp	KĂślyĂśk 22
+309	St. Martin	FĂśld szĂŠlĂŠn, kĂśzĂŠpen
+310	Sting	If On A Winter`s Night
+311	Sting	Symphonicities
+312	Sting	The Best Of 25 Years
+313	Susan Boyle	I Dreamed A Dream
+314	Susan Boyle	The Gift
+315	SzabĂł Eszter	Colorpop
+316	Szekeres Adrien	A szeretet ĂźnnepĂŠn
+317	Szekeres Adrien	Csak jĂĄtĂŠk
+318	Szekeres Adrien	Olyan, mint Te
+319	Szenes IvĂĄn	HosszĂş az a nap
+320	SzĂ­j Melinda	Foltos Ăşton
+321	Szikora RĂłbert	Legszebb szerelmes dalai
+322	SzulĂĄk Andrea	BoldogsĂĄg, gyere haza
+323	TabĂĄni IstvĂĄn	ĂrzĂŠs
+324	TabĂĄni IstvĂĄn	GyĂśnyĂśrĹą szĂŠp
+325	TabĂĄni IstvĂĄn	Ments meg!
+326	TakĂĄcs Nikolas	A mĂĄsodik X - 10 Ăşj felvĂŠtel
+327	TakĂĄcs Nikolas	Az elsĹ X - 10 dal az ĂŠlĹ showbĂłl
+328	Tankcsapda	ElektromĂĄgnes
+329	Tankcsapda	Minden jĂłt
+330	The Black Eyed Peas	The E.N.D.
+331	Tiesto	Elements Of Life
+332	Tiesto	In Search Of Sunrise 6.
+333	Tokio Hotel	Zimmer 483
+334	Tolvai RenĂĄta	A dĂśntĹben elhangzott dalok
+335	TĂłth Vera	Zene kell nekem
+336	U2	18 Singles
+337	U2	No Line On The Horizon
+338	Utasi Ărpi	Kedvenc mesĂŠim
+339	VĂĄczi Eszter Quartet	Vissza hozzĂĄd
+340	VĂĄlogatĂĄs	A legnagyobb magyar slĂĄgergyĹąjtemĂŠny
+341	VĂĄlogatĂĄs	Bravissimo 2007
+342	VĂĄlogatĂĄs	Csingiling - KarĂĄcsonyi Muzsika
+343	VĂĄlogatĂĄs	Dancissimo 2006
+344	VĂĄlogatĂĄs	Dancissimo 2007
+345	VĂĄlogatĂĄs	Dancissimo 2008 hotdog.hu Dancemix
+346	VĂĄlogatĂĄs	GyerekkarĂĄcsony BĂłnusz
+347	VĂĄlogatĂĄs	GyerekkarĂĄcsony Extra
+348	VĂĄlogatĂĄs	KarĂĄcsonyi csillagszĂłrĂłk
+349	VĂĄlogatĂĄs	Klasszikus kedvencek
+350	VĂĄlogatĂĄs	MAMA - Dalok ĂŠdesanyĂĄknak
+351	VĂĄlogatĂĄs	Mulat az orszĂĄg
+352	VĂĄlogatĂĄs	Mulat az orszĂĄg 2.
+353	VĂĄlogatĂĄs	MulatĂłs aranyalbum - best of
+354	VĂĄlogatĂĄs	MulatĂłs mĂĄnia 2007
+355	VĂĄlogatĂĄs	MulatĂłs MĂĄnia 2008
+356	VĂĄlogatĂĄs	Nagy gyerek lemez
+357	VĂĄlogatĂĄs	Nagy hazai hĂĄzibuli folytatĂłdik
+358	VĂĄlogatĂĄs	Nagy hazai hĂĄzibuli lemez
+359	VĂĄlogatĂĄs	Nagy mulatĂłs lemez 2007
+360	VĂĄlogatĂĄs	Nagy mulatĂłs lemez 2008
+361	VĂĄlogatĂĄs	Nagy mulatĂłs lemez 2009
+362	VĂĄlogatĂĄs	Nagy mulatĂłs lemez 2010
+363	VĂĄlogatĂĄs	Now.hu 11
+364	VĂĄlogatĂĄs	Now.hu 9.
+365	VĂĄlogatĂĄs	ĂriĂĄs mulatĂłs lemez
+366	VĂĄlogatĂĄs	Party Megamix 2008
+367	VĂĄlogatĂĄs	Swing! Swing! Swing!
+368	VĂĄlogatĂĄs	Szenes IvĂĄn Nem csak a hĂşszĂŠvesekĂŠ a vilĂĄg
+369	VĂĄlogatĂĄs	Trend 2007 Tavasz
+370	VĂĄlogatĂĄs	Ăj Juventus mix
+371	VĂĄlogatĂĄs	VIVA Megamix 2007
+372	VĂĄradi Roma CafĂŠ	Espresso
+373	VĂĄradi Roma CafĂŠ	Ez van
+374	VĂĄradi Roma CafĂŠ	Isten hozott a csalĂĄdban
+375	Varga Feri & BalĂĄssy Betty	Ăbredni valakiĂŠrt
+376	Varnus XavĂŠr	BachtĂłl a Csillagok hĂĄborĂşjĂĄig
+377	Varnus XavĂŠr	Classic & Jazz
+378	Varnus XavĂŠr	From Ravel to Vangelis
+379	VĂĄsĂĄry AndrĂŠ	Ănnep
+380	VĂĄsĂĄry AndrĂŠ	VĂĄsĂĄry AndrĂŠ
+381	Vastag Csaba	A mĂĄsodik X - 10 Ăşj felvĂŠtel
+382	Vastag Csaba	Az elsĹ X - 10 dal az ĂŠlĹ showbĂłl
+383	Vastag Tomi	Az elsĹ X - 10 dal az ĂŠlĹ showbĂłl
+384	Whitney Houston	I Look To You
+385	Wolf Kati	Az elsĹ X - 10 dal az ĂŠlĹ showbĂłl
+386	Wolf Kati	VĂĄr a holnap
+387	Yonderboi	Passive Control
+388	ZĂĄmbĂł Jimmy	KirĂĄlyi duettek
+389	Zeneovi	Jeles napok 1.
+390	Zeneovi	NĂŠpdalok kicsiknek
+391	Zeneovi	TĂŠli Ăźnnep
+392	Zeneovi	Zeneovi
+393	ZorĂĄn	34 dal
+394	ZorĂĄn	KĂśrtĂĄnc - KĂłlĂł
+395	ZorĂĄn	KĂśzĂśs szavakbĂłl koncert - SportarĂŠna 2007
+396	ZsĂŠda	Rouge

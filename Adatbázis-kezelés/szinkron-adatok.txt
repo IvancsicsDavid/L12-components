@@ -1,0 +1,73 @@
+2. feladat:
+
+SELECT cim,eredeti
+FROM `film`
+WHERE magyarszoveg = "Heltai Olga";
+
+3. feladat:
+
+SELECT DISTINCT rendezo,szinkronrendezo 
+FROM `film`
+WHERE ev>2000;
+
+4. feladat:
+
+SELECT cim ,magyarszoveg 
+FROM `film`
+WHERE rendezo = "Christopher Nolan" AND studio = "Mafilm Audio Kft."
+ORDER BY magyarszoveg;
+
+5. feladat:
+
+SELECT film.cim,film.eredeti,szinkron.szinesz,szinkron.szerep
+FROM `film`
+INNER JOIN szinkron ON szinkron.filmaz=film.filmaz
+WHERE szinkron.hang = "Anger Zsolt";
+
+6. feladat:
+
+Select film.cim, film.eredeti, COUNT(szinkron.szerep) AS "szinkronok száma"
+FROM `film`
+INNER JOIN szinkron ON szinkron.filmaz=film.filmaz
+GROUP BY film.eredeti
+
+7. feladat:
+
+Select szinkron.szerep, szinkron.szinesz,szinkron.hang
+FROM `film`
+INNER JOIN szinkron ON szinkron.filmaz=film.filmaz
+WHERE szinkron.szerep LIKE "rab%" OR szinkron.szerep LIKE "% rab%";
+
+8.feladat:
+
+Select DISTINCT szinkron.szinesz AS "Színész-rendező"
+FROM szinkron
+WHERE szinkron.szinesz IN 
+(
+    SELECT rendezo
+    FROM film
+);
+
+9.feladat:
+
+Select szinkron.hang , film.cim
+FROM film
+INNER JOIN szinkron ON szinkron.filmaz=film.filmaz
+WHERE szinkron.filmaz IN 
+(
+    SELECT filmaz
+    FROM szinkron
+	WHERE hang = "Pap Kati"
+) AND szinkron.hang != "Pap Kati"
+ORDER BY szinkron.hang;
+
+10.
+
+Select szinkron.szinesz,szinkron.hang, COUNT(film.filmaz) AS "FilmekSzama"
+FROM film
+INNER JOIN szinkron ON szinkron.filmaz=film.filmaz
+GROUP BY szinkron.szinesz
+HAVING FilmekSzama >= 3
+ORDER BY FilmekSzama DESC;
+
+11.

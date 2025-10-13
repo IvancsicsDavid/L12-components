@@ -1,0 +1,55 @@
+1.feladat:
+
+CREATE DATABASE thorma;
+
+CREATE TABLE kepek (
+leltar VARCHAR(255) PRIMARY KEY,
+fazon INT,
+cim TEXT,
+keszult INT,
+anyag TEXT,
+technika TEXT,
+szeles DECIMAL(5,1),
+magas DECIMAL(5,1)
+);
+
+CREATE TABLE festok(
+azon INT PRIMARY KEY,
+nev TEXT,
+szuletett INT,
+meghalt INT
+)
+
+2.feladat:
+
+SELECT festok.nev
+FROM festok
+WHERE festok.szuletett<1900 AND festok.meghalt>1930;
+
+3.feladat:
+
+SELECT DISTINCT kepek.technika
+FROM kepek
+WHERE kepek.anyag = "vászon";
+
+4.feladat:
+
+SELECT kepek.cim,kepek.keszult,festok.nev
+FROM kepek
+INNER JOIN festok ON festok.azon=kepek.fazon
+WHERE kepek.cim LIKE "%tér%";
+
+5.feladat:   //W.I.P
+
+SELECT festok.nev,kepek.cim,MAX(kepek.szeles) AS "szelesseg"
+FROM kepek
+INNER JOIN festok ON festok.azon=kepek.fazon
+WHERE festok.azon=kepek.fazon;
+
+6.feladat:
+
+SELECT festok.nev,COUNT(festok.azon) AS "festmenyekSzama"
+FROM kepek
+INNER JOIN festok ON festok.azon=kepek.fazon
+GROUP BY festok.azon
+ORDER BY festmenyekSzama DESC;
