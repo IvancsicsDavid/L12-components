@@ -37,6 +37,14 @@ class SongController extends Controller
 
         $selectedSong=$songs[$id];
 
-        return view("songs.song", compact('selectedSong','id','songs'));
+        $sameCategorySongs = collect($songs)
+            ->filter(fn($m, $key) => $m['genre'] === $selectedSong['genre'] && $key != $id)
+            ->take(3);
+
+
+
+        //$filteredSongs=collect($songs)->filter(function ($song) use ($genre){return $song['genre'] === $genre;})
+
+        return view("songs.song", compact('selectedSong','id','songs','sameCategorySongs'));
     }
 }
